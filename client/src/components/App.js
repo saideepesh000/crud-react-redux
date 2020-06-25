@@ -7,7 +7,6 @@ import StreamDelete from './streams/StreamDelete'
 import StreamList from './streams/StreamList'
 import Header from './Header'
 import history from '../history'
-//160777407521-fb9ms3k9lgd5t3uj5h53ff8ajvhef3b7.apps.googleusercontent.com
 
 const App = () =>{
 	return (
