@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "first",
+      "description": "good first stream",
+      "id": 1
+    },
+    {
+      "title": "dssnd",
+      "description": "sds",
+      "id": 2
+    },
+    {
+      "title": "my",
+      "description": "stream edited",
+      "id": 4
+    }
+  ]
+}
